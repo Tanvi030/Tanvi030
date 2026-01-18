@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanvi Gangurde</h1>
-![WhatsApp Image 2026-01-18 at 11 29 53 PM](https://github.com/user-attachments/assets/cfba62e0-e91f-43c5-b760-199d2f5db9d0)
-
 <h3 align="center">Actively seeking entry-level Data Analyst or Programmer Analyst roles in a growth-oriented organization</h3>
 
 
