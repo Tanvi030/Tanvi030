@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanvi Gangurde</h1>
 <h3 align="center">Actively seeking entry-level Data Analyst or Programmer Analyst roles in a growth-oriented organization</h3>
-![WhatsApp Image 2026-01-18 at 11 29 53 PM](https://github.com/user-attachments/assets/5c8c9a31-f835-436b-874c-e71f02287743)
+(https://github.com/user-attachments/assets/5c8c9a31-f835-436b-874c-e71f02287743)
 
 - 🔭 Twitter Analytics Dashboard [https://github.com/Tanvi030/Twitter-Analytics-Dashboard-Power-BI](https://github.com/Tanvi030/Twitter-Analytics-Dashboard-Power-BI)
 
